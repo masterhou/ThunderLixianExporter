@@ -12,6 +12,13 @@ ThunderLixianExporter
 
 ![ThunderLixianExporter Setting](http://s.binux.me/TLE/master/ThunderLixianExporter.png)
 
+Install
+-----
+
+支持 Safari：
+
+* [Safari](https://raw.githubusercontent.com/masterhou/ThunderLixianExporter/master/safari/ThunderExporter.safariextz)：下载后双击安装即可。
+
 Usage
 -----
 
