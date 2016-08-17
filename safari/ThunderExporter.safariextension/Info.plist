@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Thomas</string>
+	<key>Builder Version</key>
+	<string>11601.7.7</string>
+	<key>CFBundleDisplayName</key>
+	<string>ThunderLixianExporter</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.hhyytt.ThunderLixianExporter</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Chrome</key>
+	<dict>
+		<key>Database Quota</key>
+		<integer>1048576</integer>
+	</dict>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict>
+			<key>End</key>
+			<array>
+				<string>ThunderLixianExporter.user.js</string>
+			</array>
+		</dict>
+		<key>Whitelist</key>
+		<array>
+			<string>http://dynamic.cloud.vip.xunlei.com/*</string>
+		</array>
+	</dict>
+	<key>Description</key>
+	<string>ThunderLixianExporter</string>
+	<key>DeveloperIdentifier</key>
+	<string>7TYPX727A4</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>All</string>
+		</dict>
+	</dict>
+	<key>Website</key>
+	<string>https://github.com/masterhou/ThunderLixianExporter</string>
+</dict>
+</plist>
